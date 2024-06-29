@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "gptimer.h": "c",
+        "gpio.h": "c",
+        "esp_log.h": "c",
+        "stdarg.h": "c",
+        "stdint.h": "c",
+        "inttypes.h": "c",
+        "sdkconfig.h": "c",
+        "err.h": "c"
+    }
+}
