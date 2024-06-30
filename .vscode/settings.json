@@ -7,6 +7,7 @@
         "stdint.h": "c",
         "inttypes.h": "c",
         "sdkconfig.h": "c",
-        "err.h": "c"
+        "err.h": "c",
+        "functional": "c"
     }
 }
