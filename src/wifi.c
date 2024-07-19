@@ -35,8 +35,8 @@
 /* 
    ESP is at 192.168.4.1
 */
-#define ESP_WIFI_SSID      "Scarlet24"
-#define ESP_WIFI_PASS      "UCM_SCAR13T"
+#define ESP_WIFI_SSID      "UCM Timing System"
+#define ESP_WIFI_PASS      "uoafsae47"
 #define ESP_WIFI_CHANNEL   1
 #define MAX_STA_CONN       4
 
